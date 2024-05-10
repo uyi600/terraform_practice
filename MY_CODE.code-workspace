@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/MY_CODE"
+		},
+		{
+			"name": "terraform_practice",
+			"path": "."
+		}
+	],
+	"settings": {
+		"githubPullRequests.remotes": [
+			"origin"
+		]
+	}
+}
