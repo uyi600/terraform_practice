@@ -1,2 +1,2 @@
 "good dog" 
-"smart dog"
+"bad dog"
