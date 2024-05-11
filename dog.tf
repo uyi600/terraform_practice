@@ -1,1 +1,2 @@
 "good dog" 
+"smart dog"
